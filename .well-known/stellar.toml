@@ -1,19 +1,11 @@
 [DOCUMENTATION]
 
 ORG_URL="https://netmoney.vercel.app"
-
 [[CURRENCIES]]
-
 code="LUMIQ"
-
 issuer="GDXTYF4HZOCLPLULK3EBNEHK66QF63JBBTEPBN6D5N7KFE6JZ23QGTS6"
-
 display_decimals=7
-
 name="LumiQ"
-
 desc="Increase Investor Value with Real-Time Insights and Generate data-driven insights for smarter banking"
-
 image="https://netmoney.vercel.app/lumiq_logo.png"
-
 anchor_asset_type="nft"
