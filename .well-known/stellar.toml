@@ -2,8 +2,9 @@
 # This file complies with Stellar Ecosystem Proposal SEP-0001
 # ==============================================================================
 [DOCUMENTATION]
+ORG_NAME="NetMoney"
 ORG_URL="https://netmoney.vercel.app"
-ORG-LOGO="https://netmoney.vercel.app/lumiq_logo.png"
+ORG_LOGO="https://netmoney.vercel.app/lumiq_logo.png"
 # ==============================================================================
 [[CURRENCIES]]
 code="LUMIQ"
